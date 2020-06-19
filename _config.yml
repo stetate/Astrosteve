@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: AstroSteve Web Site return
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: One mans ramblings of his journey trying to perfect the phtography of the night sky
 
 # Your name to show in the footer
-author: Some Person
+author: Stephen tate
 
 # --- List of links in the navigation bar --- #
 
@@ -15,8 +15,8 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Learn markdown: ""
+  Author's home: ""
 
 # --- Logo --- #
 
@@ -38,10 +38,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "stephen.tate@tatefamily.info"
+  facebook: stephenatate
+  github: stetate
+  twitter: astrosteve
   rss: true
 #  reddit: yourname
 #  linkedin: daattali

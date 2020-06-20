@@ -7,4 +7,4 @@ comments: true
 ---
 # The Equipment used to Generate these images
 
-the blah blah blah 
+I have 4 Telescopes which are functional. a WO RedCat51, Skywatcher 102 Achromat, Orion ED80 and a WO FLT TMB 110. I also have an UK Orion 10" newtonian but this needs a lot of love and attention 

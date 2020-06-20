@@ -16,7 +16,8 @@ navbar-links:
   Resources:
     - Spaceweather : "https://www.spaceweather.com"
     - Canada AstroBuySell : "https://www.astrobuysell.com"
-
+  Pages:
+    - Equipment : "_pages/equipment.md"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: ""
   #Author's home: ""

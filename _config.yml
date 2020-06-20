@@ -17,11 +17,17 @@ navbar-links:
     - Spaceweather : "https://www.spaceweather.com"
     - Canada AstroBuySell : "https://www.astrobuysell.com"
   Pages:
-    - Equipment : "_pages/equipment.md"
+    - Equipment : "_pages/equipment"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: ""
   #Author's home: ""
-
+  Home: ""
+  News: "news"
+  Features: "features"
+  How to run: "how-to-run"
+  Bugs: "development"
+  History: "history"
+  Download: "download"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image

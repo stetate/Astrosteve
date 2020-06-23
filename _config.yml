@@ -18,7 +18,6 @@ navbar-links:
     - Canada AstroBuySell : "https://www.astrobuysell.com"
   Pages:
     - Equipment : "_pages/equipment"
-<<<<<<< HEAD
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: ""
   #Author's home: ""
@@ -29,12 +28,11 @@ navbar-links:
     - Bugs: "development"
     - History: "history"
     - Download: "download"
-=======
-  Astronomy in Barrie: ""
+    - Astronomy in Barrie: ""
     - News: "news"
     - Features: "features"
     - Where to go: "where"
->>>>>>> 47036b32fdc1a07210b1e94b5d5923706c0ab997
+
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image

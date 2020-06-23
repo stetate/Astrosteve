@@ -7,6 +7,7 @@ comments: true
 ---
 # The Equipment used to Generate these images
 
+<<<<<<< HEAD
 The Equipment which I use as a day to day workhorses include my ageing William Optics FLT110 and now my William Optics RedCat51
 
 ##_WO FLT110 Original Optics._
@@ -14,3 +15,10 @@ This really is my workhorse -- this is a critical piece of equipment and was an 
 
 It really does have good optics held in a sturdy cell which has been mistreated and bounced around. All of the telescopic images are taken with the FLT it is the only scope worth imaging through.
 
+=======
+I have 4 Telescopes which are functional. a WO RedCat51, Skywatcher 102 Achromat, Orion ED80 and a WO FLT TMB 110. I also have an UK Orion 10" newtonian but this needs a lot of love and attention 
+
+The telescoeps are mounted on in general a Losmandy G11 with Gemini control and the smaller redcat is on a iOptron EQ30Pro
+
+I use both a Cannon 6D and a sBIG ST8300 camera for imaging as well as having a number of really nice camera full frame lenses
+>>>>>>> 47036b32fdc1a07210b1e94b5d5923706c0ab997

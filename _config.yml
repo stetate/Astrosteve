@@ -18,6 +18,7 @@ navbar-links:
     - Canada AstroBuySell : "https://www.astrobuysell.com"
   Pages:
     - Equipment : "_pages/equipment"
+<<<<<<< HEAD
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: ""
   #Author's home: ""
@@ -28,14 +29,20 @@ navbar-links:
     - Bugs: "development"
     - History: "history"
     - Download: "download"
+=======
+  Astronomy in Barrie: ""
+    - News: "news"
+    - Features: "features"
+    - Where to go: "where"
+>>>>>>> 47036b32fdc1a07210b1e94b5d5923706c0ab997
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "assets/img/astrophotos/124553.svg"
+#avatar: "assets/img/astrophotos/124553.svg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+#round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -176,7 +183,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

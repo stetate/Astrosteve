@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/equipment.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/equipment.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-06-21-NGC7000.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-06-21-NGC7000.md" afterDir="false" />
+    <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="adding images">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-28-test-markdown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-06-22-NGC6888.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-06-22-NGC6888.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +30,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://stetate@github.com/stetate/Astrosteve.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1ddEVQVFnXAnkmidvpRDH6tv8cw" />
   <component name="ProjectViewState">
@@ -42,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592746592895</updated>
-      <workItem from="1592746598388" duration="2097000" />
+      <workItem from="1592746598388" duration="4997000" />
     </task>
     <task id="LOCAL-00001" summary="adding extra images">
       <created>1592749073047</created>
@@ -51,20 +82,89 @@
       <option name="project" value="LOCAL" />
       <updated>1592749073047</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding extra images">
+      <created>1592948591943</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592948591943</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding extra images">
+      <created>1592948611310</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592948611310</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding extra images">
+      <created>1592951143784</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592951143784</updated>
+    </task>
+    <task id="LOCAL-00005" summary="finsihed the NGC6888">
+      <created>1592951518065</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592951518065</updated>
+    </task>
+    <task id="LOCAL-00006" summary="adding images">
+      <created>1592963641598</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592963641598</updated>
+    </task>
+    <task id="LOCAL-00007" summary="remove theme">
+      <created>1592963977062</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592963977062</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_WIDTH">
+                <map>
+                  <entry key="2" value="130" />
+                  <entry key="3" value="103" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding extra images" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding extra images" />
+    <MESSAGE value="finsihed the NGC6888" />
+    <MESSAGE value="adding images" />
+    <MESSAGE value="remove theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove theme" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="200" y="23" width="1386" height="1085" key="CommitChangelistDialog2" timestamp="1592749072869">
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1592963976900">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
-    <state x="200" y="23" width="1386" height="1085" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1592749072869" />
+    <state x="200" y="0" key="CommitChangelistDialog2/0.0.1920.1200@0.0.1920.1200" timestamp="1592951143582" />
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1592963976900" />
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1592963979022">
+      <screen x="0" y="23" width="1920" height="1121" />
+    </state>
+    <state x="560" y="340" key="Vcs.Push.Dialog.v2/0.0.1920.1200@0.0.1920.1200" timestamp="1592951147439" />
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1592963979022" />
   </component>
 </project>

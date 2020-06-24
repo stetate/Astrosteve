@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="adding images">
+    <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-05-04-P46Plaedies.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-28-test-markdown.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-06-22-NGC6888.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-06-22-NGC6888.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592746592895</updated>
-      <workItem from="1592746598388" duration="4997000" />
+      <workItem from="1592746598388" duration="7666000" />
     </task>
     <task id="LOCAL-00001" summary="adding extra images">
       <created>1592749073047</created>
@@ -124,7 +124,42 @@
       <option name="project" value="LOCAL" />
       <updated>1592963977062</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fixed image link">
+      <created>1592964319441</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592964319441</updated>
+    </task>
+    <task id="LOCAL-00009" summary="changed image links">
+      <created>1592964653692</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592964653692</updated>
+    </task>
+    <task id="LOCAL-00010" summary="changed image tagging">
+      <created>1592965406635</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1592965406635</updated>
+    </task>
+    <task id="LOCAL-00011" summary="changed image tagging again">
+      <created>1592965781578</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592965781578</updated>
+    </task>
+    <task id="LOCAL-00012" summary="correct image tagging in the file">
+      <created>1592966185605</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1592966185605</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,18 +188,27 @@
     <MESSAGE value="finsihed the NGC6888" />
     <MESSAGE value="adding images" />
     <MESSAGE value="remove theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove theme" />
+    <MESSAGE value="fixed image link" />
+    <MESSAGE value="changed image links" />
+    <MESSAGE value="changed image tagging" />
+    <MESSAGE value="changed image tagging again" />
+    <MESSAGE value="correct image tagging in the file" />
+    <option name="LAST_COMMIT_MESSAGE" value="correct image tagging in the file" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1592963976900">
+    <state x="742" y="407" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592967169587">
+      <screen x="0" y="23" width="1920" height="1121" />
+    </state>
+    <state x="742" y="407" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1121@0.23.1920.1121" timestamp="1592967169587" />
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1592966185490">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="200" y="0" key="CommitChangelistDialog2/0.0.1920.1200@0.0.1920.1200" timestamp="1592951143582" />
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1592963976900" />
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1592963979022">
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1592966185490" />
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1592966187314">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="560" y="340" key="Vcs.Push.Dialog.v2/0.0.1920.1200@0.0.1920.1200" timestamp="1592951147439" />
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1592963979022" />
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1592966187314" />
   </component>
 </project>

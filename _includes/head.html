@@ -116,5 +116,9 @@
   <!-- Staticman -->
   <link rel="stylesheet" href="{{ "/assets/css/staticman.css" | relative_url }}">
   {% endif %}
+  {% if page.cover-img %}
+    <meta property="og:image" content="{{ site.url }}/{{ page.cover-img }}" />
+  {% endif %}
 
+  <meta property="og:description" content="{{ page.subtitle }}" />
 </head>

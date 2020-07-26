@@ -33,6 +33,6 @@ Comet panstars was one of those frustrating comets -- it looked fantastci in ima
 
 
 
-[neowise]:https://stetate.github.io/Astrosteve/assets/img/cometImages/neowise(22nd).jpg
-[lulin]:https://stetate.github.io/Astrosteve/assets/img/cometImages/Lulin-JPG-completed.jpg
-[panstars]:https://stetate.github.io/Astrosteve/assets/img/cometImages/panstar_01.jpg
+[neowise]:../assets/img/cometImages/neowise(22nd).jpg
+[lulin]:../assets/img/cometImages/Lulin-JPG-completed.jpg
+[panstars]:../assets/img/cometImages/panstar_01.jpg

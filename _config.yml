@@ -18,6 +18,8 @@ navbar-links:
     - Canada AstroBuySell : "https://www.astrobuysell.com"
   Pages:
     - Equipment : "_pages/equipment"
+  Objects:
+    - Comets : "_pages/cometimages"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: ""
   #Author's home: ""

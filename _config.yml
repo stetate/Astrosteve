@@ -17,9 +17,9 @@ navbar-links:
     - Spaceweather : "https://www.spaceweather.com"
     - Canada AstroBuySell : "https://www.astrobuysell.com"
   Pages:
-    - Equipment : "_pages/equipment"
-  Objects:
-    - Comets : "_pages/cometimages"
+    - Equipment : "_pages/equipment.md"
+    - Objects:
+      - Comets : "_pages/cometimages.md"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: ""
   #Author's home: ""

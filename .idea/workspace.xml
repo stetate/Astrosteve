@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-07-31-Bubble.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-07-31-Bubble.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-07-31-Bubble.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +85,7 @@
       <workItem from="1592746598388" duration="8175000" />
       <workItem from="1593978864232" duration="827000" />
       <workItem from="1595718291219" duration="10041000" />
-      <workItem from="1596377307445" duration="729000" />
+      <workItem from="1596377307445" duration="1028000" />
     </task>
     <task id="LOCAL-00001" summary="adding extra images">
       <created>1592749073047</created>
@@ -298,7 +297,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595796548889</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="added bubble page">
+      <created>1596378054840</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1596378054840</updated>
+    </task>
+    <task id="LOCAL-00032" summary="added bubble page">
+      <created>1596378266050</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1596378266050</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,22 +354,23 @@
     <MESSAGE value="test" />
     <MESSAGE value="corrected issues with the infrastructure and linked pages" />
     <MESSAGE value="Added comet Page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added comet Page" />
+    <MESSAGE value="added bubble page" />
+    <option name="LAST_COMMIT_MESSAGE" value="added bubble page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="742" y="407" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592967169587">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="742" y="407" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1121@0.23.1920.1121" timestamp="1592967169587" />
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1595796548718">
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1596378265890">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="200" y="0" key="CommitChangelistDialog2/0.0.1920.1200@0.0.1920.1200" timestamp="1592951143582" />
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1595796548718" />
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1595796550010">
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1596378265890" />
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1596378058259">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="560" y="340" key="Vcs.Push.Dialog.v2/0.0.1920.1200@0.0.1920.1200" timestamp="1592951147439" />
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1595796550010" />
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1596378058259" />
   </component>
 </project>

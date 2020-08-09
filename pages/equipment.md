@@ -1,10 +1,10 @@
 ---
 layout: page
 show_meta: false
-title: "Style your content!"
-subheadline: "Layouts of Feeling Responsive"
+title: "Equipment"
+subheadline: "Equipment Used for the generation of these images"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "assets/img/astrophotos/10x20lEnh.jpg"
 permalink: "/design/"
 ---
 <ul>

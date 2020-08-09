@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2020-07-31-Bubble.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-07-31-Bubble.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +86,7 @@
       <workItem from="1593978864232" duration="827000" />
       <workItem from="1595718291219" duration="10041000" />
       <workItem from="1596377307445" duration="1028000" />
+      <workItem from="1596378880434" duration="988000" />
     </task>
     <task id="LOCAL-00001" summary="adding extra images">
       <created>1592749073047</created>

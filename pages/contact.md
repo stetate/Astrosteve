@@ -6,7 +6,4 @@ subheadline: "Wufoo-powered contact forms"
 teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
-
-
- [1]: http://www.wufoo.com/
+<div id="wufoo-z1fpdzjc1ajsbq9"> Fill out my <a href="https://state.wufoo.com/forms/z1fpdzjc1ajsbq9">online form</a>. </div> <script type="text/javascript"> var z1fpdzjc1ajsbq9; (function(d, t) { var s = d.createElement(t), options = { 'userName':'state', 'formHash':'z1fpdzjc1ajsbq9', 'autoResize':true, 'height':'437', 'async':true, 'host':'wufoo.com', 'header':'show', 'ssl':true }; s.src = ('https:' == d.location.protocol ?'https://':'http://') + 'secure.wufoo.com/scripts/embed/form.js'; s.onload = s.onreadystatechange = function() { var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return; try { z1fpdzjc1ajsbq9 = new WufooForm(); z1fpdzjc1ajsbq9.initialize(options); z1fpdzjc1ajsbq9.display(); } catch (e) { } }; var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr); })(document, 'script'); </script>

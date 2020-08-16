@@ -19,22 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_config_git.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OLD/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-05-04-P46Plaedies.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-04-P46Plaedies.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-06-21-NGC7000.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-06-21-NGC7000.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-06-22-NGC6888.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-06-22-NGC6888.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-07-05-Sadr_FMF.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-07-05-Sadr_FMF.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-07-20-CometNeowise.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-07-20-CometNeowise.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-07-25-ET.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-07-25-ET.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-07-31-Bubble.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-07-31-Bubble.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/info.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/info.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/pages-root-folder/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pages-root-folder/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/roadmap.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/roadmap.md" afterDir="false" />
+    <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="updates to many files and topic areas">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-08-14-ngc6960.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/astrophotos/NGC6960_20x5min_lenhance20200814.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/astrophotos/Wide_et_20200814.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +56,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -85,8 +73,8 @@
       <recent name="$PROJECT_DIR$/images/postImages" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -105,7 +93,7 @@
       <workItem from="1595718291219" duration="10041000" />
       <workItem from="1596377307445" duration="1028000" />
       <workItem from="1596378880434" duration="4050000" />
-      <workItem from="1597591376190" duration="4259000" />
+      <workItem from="1597591376190" duration="4607000" />
     </task>
     <task id="LOCAL-00001" summary="adding extra images">
       <created>1592749073047</created>
@@ -373,7 +361,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597592244726</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="updates to many files and topic areas">
+      <created>1597595798469</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1597595798469</updated>
+    </task>
+    <task id="LOCAL-00040" summary="updates to many files and topic areas">
+      <created>1597595834444</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1597595834444</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,18 +421,19 @@
     <MESSAGE value="added bubble page" />
     <MESSAGE value="commit of new layout -- final shape and design" />
     <MESSAGE value="Changes to index -- top level" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes to index -- top level" />
+    <MESSAGE value="updates to many files and topic areas" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates to many files and topic areas" />
   </component>
   <component name="WindowStateProjectService">
     <state x="742" y="407" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592967169587">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="742" y="407" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1121@0.23.1920.1121" timestamp="1592967169587" />
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1597592244526">
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1597595851046">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="200" y="0" key="CommitChangelistDialog2/0.0.1920.1200@0.0.1920.1200" timestamp="1592951143582" />
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1597592244526" />
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1597595851046" />
     <state x="200" y="23" key="CommitChangelistDialog2/0.23.1920.1122@0.23.1920.1122" timestamp="1597001650046" />
     <state x="336" y="124" width="936" height="921" key="DiffContextDialog" timestamp="1596988974144">
       <screen x="0" y="23" width="1920" height="1122" />

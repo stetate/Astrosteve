@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="" />
+    <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2020-08-14-ngc6960.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-08-14-ngc6960.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +91,7 @@
       <workItem from="1595718291219" duration="10041000" />
       <workItem from="1596377307445" duration="1028000" />
       <workItem from="1596378880434" duration="4050000" />
-      <workItem from="1597591376190" duration="4896000" />
+      <workItem from="1597591376190" duration="5274000" />
     </task>
     <task id="LOCAL-00001" summary="adding extra images">
       <created>1592749073047</created>
@@ -378,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597596235879</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="updated GEM">
+      <created>1597596614292</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1597596614292</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,28 +435,29 @@
     <MESSAGE value="Changes to index -- top level" />
     <MESSAGE value="updates to many files and topic areas" />
     <MESSAGE value="NGC6960 addition" />
-    <option name="LAST_COMMIT_MESSAGE" value="NGC6960 addition" />
+    <MESSAGE value="updated GEM" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated GEM" />
   </component>
   <component name="WindowStateProjectService">
     <state x="742" y="407" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592967169587">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="742" y="407" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1121@0.23.1920.1121" timestamp="1592967169587" />
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1597596235691">
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1597596614132">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="200" y="0" key="CommitChangelistDialog2/0.0.1920.1200@0.0.1920.1200" timestamp="1592951143582" />
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1597596235691" />
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1597596614132" />
     <state x="200" y="23" key="CommitChangelistDialog2/0.23.1920.1122@0.23.1920.1122" timestamp="1597001650046" />
     <state x="336" y="124" width="936" height="921" key="DiffContextDialog" timestamp="1596988974144">
       <screen x="0" y="23" width="1920" height="1122" />
     </state>
     <state x="336" y="124" width="936" height="921" key="DiffContextDialog/0.23.1920.1122@0.23.1920.1122" timestamp="1596988974144" />
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1597596238538">
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1597596616189">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="560" y="340" key="Vcs.Push.Dialog.v2/0.0.1920.1200@0.0.1920.1200" timestamp="1592951147439" />
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1597596238538" />
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1597596616189" />
     <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1122@0.23.1920.1122" timestamp="1597001653394" />
   </component>
 </project>

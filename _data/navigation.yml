@@ -11,13 +11,13 @@
   side: left
   dropdown:
   - title: "Main Scope"
-    url: "/equipment/equipment/"
+    url: "/equipment/flt/"
   - title: "Losmandy G11"
-    url: "/equipment/equipment/"
+    url: "/equipment/g11/"
   - title: "iOptron ieq30Pro"
-    url: "/equipment/equipment/"
+    url: "/equipment/ieq30/"
   - title: "sBIG ST8300C"
-    url: "/equipment/equipment/"
+    url: "/equipment/st8300/"
 
 
 - title: Blog Posts

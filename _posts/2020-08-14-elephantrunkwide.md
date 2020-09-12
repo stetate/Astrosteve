@@ -5,14 +5,14 @@ subtitle:
 header-img: https://stetate.github.io/Astrosteve/assets/img/astrophotos/20200912_ET_lenh_redcat.jpg
 share-img: https://stetate.github.io/Astrosteve/assets/img/astrophotos/20200912_ET_lenh_redcat.jpg
 thumbnail-img: https://stetate.github.io/Astrosteve/assets/img/astrophotos/20200912_ET_lenh_redcat.jpg
-tags: [FLT110, Elephant Trunk, image]
+tags: [FLT110, RedCat, 6D, Elephant Trunk, image]
 ---
 
 # Image of the Elephant Trunk Nebulosity
 
 The elephant trunk is an iconic image but is part of a wider nebulosity most of which is never imaged
 ![image][ET]
-10x1.5min unfiltered redcat and 6D
+combined filtered and unfilterd data with the FLT and sBIG
 ![image][ETl]
 32X3min filtered redcat and 6D
 
@@ -26,5 +26,5 @@ The Elephant's Trunk Nebula is now thought to be a site of star formation, conta
 
 The combined action of the light from the massive star ionizing and compressing the rim of the cloud, and the wind from the young stars shifting gas from the center outward lead to very high compression in the Elephant's Trunk Nebula. This pressure has triggered the current generation of protostars
 
-[ET]:../assets/img/astrophotos/20200814_Wide_ET.jpg
+[ET]:../assets/img/astrophotos/IC1398_ET_FnUF.jpg
 [ETl]:../assets/img/astrophotos/20200912_ET_lenh_redcat.jpg

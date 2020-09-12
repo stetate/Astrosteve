@@ -6,21 +6,21 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: ../assets/img/astrophotos/20x10lEnh.jpg
+  image_fullwidth: astrophotos/20x10lEnh.jpg
 widget1:
   title: "Blog & Portfolio"
   url: 'http://stetate.github.io/Astrosteve/blog/'
-  image: ../assets/img/cometImages/neowise(22nd).jpg
+  image: cometImages/neowise(22nd).jpg
   text: 'Lastest Images / News and activities'
 widget2:
   title: "How to get into this hobby "
-  url: 'http://stetate.github.io/Astrosteve/blog/'
-  image: ../assets/img/cometImages/neowise(22nd).jpg
+  url: /getting-started/
+  image: cometImages/neowise(22nd).jpg
   text: 'The long road is one that never ends -- there is always something new to work on and learn'
 widget3:
-  title: "Images"
-  url: 'http://stetate.github.io/Astrosteve/blog/'
-  image: ../assets/img/cometImages/neowise(22nd).jpg
+  title: "Equipment"
+  url: /equipment/
+  image: cometImages/neowise(22nd).jpg
   text: 'Coming soon a full list and compiled version of images taken'
 #
 # Use the call for action to show a button on the frontpage

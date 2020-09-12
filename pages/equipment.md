@@ -4,8 +4,8 @@ show_meta: false
 title: "Equipment"
 subheadline: "Equipment Used for the generation of these images"
 header:
-   image_fullwidth: "assets/img/astrophotos/10x20lEnh.jpg"
-permalink: "/design/"
+   image_fullwidth: astrophotos/10x20lEnh.jpg
+permalink: "/equipment/"
 ---
 <ul>
     {% for post in site.categories.design %}

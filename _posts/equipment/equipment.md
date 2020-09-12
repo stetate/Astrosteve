@@ -18,3 +18,9 @@ Once the mount is level it is time to mount the 2inch weight bar as well as the 
 
 The scope / dovetail bar is in my case a losmandy fitting but it is possible to remove and add a standard vixen fitting 
 ##Gemini control and setup
+
+
+
+
+
+permalink: /equipment/

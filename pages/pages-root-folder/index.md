@@ -15,12 +15,12 @@ widget1:
 widget2:
   title: "How to get into this hobby "
   url: /getting-started/
-  image: cometImages/neowise(22nd).jpg
+  image: scope.jpg
   text: 'The long road is one that never ends -- there is always something new to work on and learn'
 widget3:
   title: "Equipment"
   url: /equipment/
-  image: cometImages/neowise(22nd).jpg
+  image: scope.jpg
   text: 'Coming soon a full list and compiled version of images taken'
 #
 # Use the call for action to show a button on the frontpage

@@ -4,6 +4,7 @@ title: Losmandy G11 with Gemini 1 control
 subtitle: Primary Mount 
 tags: [Equipment]
 comments: true
+permalink: /equipment/
 ---
 # Losmandy G11 and Gemini
 
@@ -23,4 +24,3 @@ The scope / dovetail bar is in my case a losmandy fitting but it is possible to 
 
 
 
-permalink: /equipment/

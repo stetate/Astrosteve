@@ -11,7 +11,7 @@ The images taken on this site were all taken with different combinations of the 
 
 ## Mounts:
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/equipment/g11/">Losmandy G11 with Gemini Control ›</a><br>
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/equipment/g11/">iOptron iEQ30Pro ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/equipment/ieq30pro/">iOptron iEQ30Pro ›</a>
 
 ## Scopes:
 William Optics FLT110

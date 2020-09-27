@@ -10,24 +10,18 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/bs4" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-09-25-M33.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +37,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="b539a7f709e672f6b31e8da8ba8f8d80fabe4ddd" />
+        <entry key="$PROJECT_DIR$" value="7e5f516dcaf5bbeecacd27bab30757c4057bbf3b" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -137,13 +131,6 @@
       <workItem from="1596378880434" duration="4050000" />
       <workItem from="1597591376190" duration="7542000" />
       <workItem from="1598804498641" duration="554000" />
-    </task>
-    <task id="LOCAL-00003" summary="adding extra images">
-      <created>1592948611310</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1592948611310</updated>
     </task>
     <task id="LOCAL-00004" summary="adding extra images">
       <created>1592951143784</created>
@@ -481,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601221320618</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="added new image _M33">
+      <created>1601221659028</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1601221659028</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -498,7 +492,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/bs4" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -518,7 +512,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="remove theme" />
     <MESSAGE value="fixed image link" />
     <MESSAGE value="changed image links" />
     <MESSAGE value="changed image tagging" />
@@ -543,7 +536,8 @@
     <MESSAGE value="added G11 page" />
     <MESSAGE value="added new posts" />
     <MESSAGE value="added new posts _M33" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new posts _M33" />
+    <MESSAGE value="added new image _M33" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new image _M33" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="245" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598804697502">
@@ -554,21 +548,21 @@
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="742" y="407" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1121@0.23.1920.1121" timestamp="1592967169587" />
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1601221320419">
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1601221658873">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="200" y="0" key="CommitChangelistDialog2/0.0.1920.1200@0.0.1920.1200" timestamp="1592951143582" />
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1601221320419" />
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1601221658873" />
     <state x="200" y="23" key="CommitChangelistDialog2/0.23.1920.1122@0.23.1920.1122" timestamp="1597828416371" />
     <state x="336" y="124" width="936" height="921" key="DiffContextDialog" timestamp="1596988974144">
       <screen x="0" y="23" width="1920" height="1122" />
     </state>
     <state x="336" y="124" width="936" height="921" key="DiffContextDialog/0.23.1920.1122@0.23.1920.1122" timestamp="1596988974144" />
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1601221333626">
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1601221660677">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="560" y="340" key="Vcs.Push.Dialog.v2/0.0.1920.1200@0.0.1920.1200" timestamp="1592951147439" />
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1601221333626" />
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1601221660677" />
     <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1122@0.23.1920.1122" timestamp="1597828418679" />
   </component>
 </project>

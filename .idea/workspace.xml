@@ -21,10 +21,76 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-10-16-CaliforniaWide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-10-17-pleiades.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-metadata" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-09-25-M33.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-25-M33.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/astrophotos/46P_Plaedies.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/astrophotos/20201017_46P_Plaedies.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/astrophotos/AG_Per_pladies.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/astrophotos/20201017_AG_Per_pladies.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/gallery-example-1-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/gallery-example-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/gallery-example-2-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/gallery-example-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/gallery-example-3-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/gallery-example-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/gallery-example-4-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/gallery-example-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/gallery-example-5-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/gallery-example-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/gallery-example-6-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/gallery-example-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/gallery-example-7-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/gallery-example-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/gallery-example-8-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/gallery-example-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/header-bus-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/header-bus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/header_drop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/header_homepage_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/header_roadmap_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/header_roadmap_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/header_typewriter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/header_unsplash_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/header_unsplash_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/header_unsplash_2-970x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/header_unsplash_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/header_unsplash_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/header_unsplash_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/header_unsplash_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/header_unsplash_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/header_unsplash_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/header_unsplash_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/header_unsplash_leaf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/homepage_typography-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/homepage_typography.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/logo copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/mediaplayer_js-home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/mediaplayer_js-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/mediaplayer_js-title.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/msapplication_tileimage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/pattern_concrete.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/presentation-feeling-responsive.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/promo-video-start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/scope.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/start-video-feeling-responsive-302x182.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/touch-icon-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/typewriter-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/unsplash_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/unsplash_brooklyn-bridge-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/unsplash_brooklyn-bridge_header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/unsplash_eagle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/video-feeling-responsive-1280x720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/video-feeling-responsive-tutorial-frontpage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/webdesign_screenshot_jcorneille.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/webdesign_screenshot_nixdorf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/webdesign_screenshot_phlow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/webdesign_screenshot_schriefer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/webdesign_screenshot_stilwandel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/webdesign_screenshot_tarnkappe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/widget-1-302x182.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basejunk/widget-github-303x182.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,17 +142,17 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img/basejunk" />
       <recent name="$PROJECT_DIR$/assets/img/astrophotos" />
       <recent name="$PROJECT_DIR$/_posts/design" />
       <recent name="$PROJECT_DIR$/_posts/equipment" />
       <recent name="$PROJECT_DIR$/_posts/imagedobjects" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
@@ -134,13 +200,8 @@
       <workItem from="1596378880434" duration="4050000" />
       <workItem from="1597591376190" duration="7542000" />
       <workItem from="1598804498641" duration="554000" />
-    </task>
-    <task id="LOCAL-00008" summary="fixed image link">
-      <created>1592964319441</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1592964319441</updated>
+      <workItem from="1602029218366" duration="1483000" />
+      <workItem from="1602962579245" duration="200000" />
     </task>
     <task id="LOCAL-00009" summary="changed image links">
       <created>1592964653692</created>
@@ -478,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601339994198</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="alter menus added">
+      <created>1601344163865</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1601344163865</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,21 +619,21 @@
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="742" y="407" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1121@0.23.1920.1121" timestamp="1592967169587" />
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1601339993970">
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1601344163657">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="200" y="0" key="CommitChangelistDialog2/0.0.1920.1200@0.0.1920.1200" timestamp="1592951143582" />
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1601339993970" />
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1601344163657" />
     <state x="200" y="23" key="CommitChangelistDialog2/0.23.1920.1122@0.23.1920.1122" timestamp="1597828416371" />
     <state x="336" y="124" width="936" height="921" key="DiffContextDialog" timestamp="1596988974144">
       <screen x="0" y="23" width="1920" height="1122" />
     </state>
     <state x="336" y="124" width="936" height="921" key="DiffContextDialog/0.23.1920.1122@0.23.1920.1122" timestamp="1596988974144" />
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1601339996772">
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1601344165633">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="560" y="340" key="Vcs.Push.Dialog.v2/0.0.1920.1200@0.0.1920.1200" timestamp="1592951147439" />
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1601339996772" />
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1601344165633" />
     <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1122@0.23.1920.1122" timestamp="1597828418679" />
   </component>
 </project>

@@ -549,25 +549,23 @@
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="479" y="245" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1121@0.23.1920.1121" timestamp="1598804697502" />
-    <state x="742" y="407" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592967169587">
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1604898677926">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
-    <state x="742" y="407" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1121@0.23.1920.1121" timestamp="1592967169587" />
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1601344163657">
-      <screen x="0" y="23" width="1920" height="1121" />
-    </state>
-    <state x="200" y="0" key="CommitChangelistDialog2/0.0.1920.1200@0.0.1920.1200" timestamp="1592951143582" />
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1601344163657" />
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1604898677926" />
     <state x="200" y="23" key="CommitChangelistDialog2/0.23.1920.1122@0.23.1920.1122" timestamp="1597828416371" />
     <state x="336" y="124" width="936" height="921" key="DiffContextDialog" timestamp="1596988974144">
       <screen x="0" y="23" width="1920" height="1122" />
     </state>
     <state x="336" y="124" width="936" height="921" key="DiffContextDialog/0.23.1920.1122@0.23.1920.1122" timestamp="1596988974144" />
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1601344165633">
+    <state x="742" y="293" key="RollbackChangesDialog" timestamp="1604898483023">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
-    <state x="560" y="340" key="Vcs.Push.Dialog.v2/0.0.1920.1200@0.0.1920.1200" timestamp="1592951147439" />
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1601344165633" />
+    <state x="742" y="293" key="RollbackChangesDialog/0.23.1920.1121@0.23.1920.1121" timestamp="1604898483023" />
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1604898679828">
+      <screen x="0" y="23" width="1920" height="1121" />
+    </state>
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1604898679828" />
     <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1122@0.23.1920.1122" timestamp="1597828418679" />
   </component>
 </project>

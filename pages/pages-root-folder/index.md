@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: astrophotos/20x10lEnh.jpg
+  image_fullwidth: astrophotos/20201108_flaming.jpg
 widget1:
   title: "Image Posts"
   url: 'http://stetate.github.io/Astrosteve/blog/'

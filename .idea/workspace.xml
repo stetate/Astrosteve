@@ -21,16 +21,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-11-08-NGC1499.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/astronomy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/astrophotos/20201108_NGC1499_california.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-metadata" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/equipment/2020-09-01-ieq30pro.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/equipment/2020-09-01-ieq30pro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/equipment/2020-09-01-st8300c.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/equipment/2020-09-01-st8300c.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/equipment.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/equipment.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/pages-root-folder/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pages-root-folder/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -172,14 +166,7 @@
       <workItem from="1602962579245" duration="200000" />
       <workItem from="1604898289378" duration="543000" />
       <workItem from="1604898839629" duration="1103000" />
-      <workItem from="1605289369399" duration="3858000" />
-    </task>
-    <task id="LOCAL-00012" summary="correct image tagging in the file">
-      <created>1592966185605</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1592966185605</updated>
+      <workItem from="1605289369399" duration="4610000" />
     </task>
     <task id="LOCAL-00013" summary="added comet page updated config">
       <created>1592967549952</created>
@@ -517,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604898795534</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Flaming Star and California addition">
+      <created>1605297077491</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1605297077493</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -590,10 +584,10 @@
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="479" y="245" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1121@0.23.1920.1121" timestamp="1598804697502" />
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1604898795384">
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1605297077171">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1604898795384" />
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1605297077171" />
     <state x="200" y="23" key="CommitChangelistDialog2/0.23.1920.1122@0.23.1920.1122" timestamp="1597828416371" />
     <state x="336" y="124" width="936" height="921" key="DiffContextDialog" timestamp="1596988974144">
       <screen x="0" y="23" width="1920" height="1122" />
@@ -603,10 +597,10 @@
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="742" y="293" key="RollbackChangesDialog/0.23.1920.1121@0.23.1920.1121" timestamp="1604898483023" />
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1604898801567">
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1605297081069">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1604898801567" />
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1605297081069" />
     <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1122@0.23.1920.1122" timestamp="1597828418679" />
   </component>
 </project>

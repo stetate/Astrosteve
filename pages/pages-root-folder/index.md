@@ -10,17 +10,17 @@ header:
 widget1:
   title: "Image Posts"
   url: 'http://stetate.github.io/Astrosteve/blog/'
-  image: astronomy.png
+  image: astronomy203.png
   text: 'Lastest Images / News and activities'
 widget2:
   title: "How To...."
   url: /getting-started/
-  image: astronomy.png
+  image: astronomy203.png
   text: 'The long road is one that never ends -- there is always something new to work on and learn'
 widget3:
   title: "Equipment"
   url: /equipment/
-  image: astronomy.png
+  image: astronomy203.png
   text: 'Coming soon a full list and compiled version of images taken'
 
 #

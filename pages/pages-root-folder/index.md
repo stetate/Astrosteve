@@ -8,19 +8,19 @@ layout: frontpage
 header:
   image_fullwidth: astrophotos/20x10lEnh.jpg
 widget1:
-  title: "Blog"
+  title: "Image Posts"
   url: 'http://stetate.github.io/Astrosteve/blog/'
-  image: cometImages/neowise(22nd).jpg
+  image: astronomy.png
   text: 'Lastest Images / News and activities'
 widget2:
   title: "How To...."
   url: /getting-started/
-  image: cometImages/neowise(22nd).jpg
+  image: astronomy.png
   text: 'The long road is one that never ends -- there is always something new to work on and learn'
 widget3:
   title: "Equipment"
   url: /equipment/
-  image: cometImages/neowise(22nd).jpg
+  image: astronomy.png
   text: 'Coming soon a full list and compiled version of images taken'
 
 #

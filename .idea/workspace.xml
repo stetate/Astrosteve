@@ -21,9 +21,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-11-08-California.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/astrophotos/Flame.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/astrophotos/flame.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/astrophotos/flaming.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/astrophotos/20201108_flaming.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-11-08-NGC1499.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/astronomy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/astrophotos/20201108_NGC1499_california.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-metadata" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/equipment/2020-09-01-ieq30pro.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/equipment/2020-09-01-ieq30pro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/equipment/2020-09-01-st8300c.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/equipment/2020-09-01-st8300c.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/equipment.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/equipment.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pages-root-folder/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pages-root-folder/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,13 +90,13 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img/astrophotos" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/img/basejunk" />
       <recent name="$PROJECT_DIR$/_posts/design" />
-      <recent name="$PROJECT_DIR$/_posts/equipment" />
-      <recent name="$PROJECT_DIR$/_posts/imagedobjects" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Docker.docker-compose.yml: Compose Deployment">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -99,6 +107,27 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.jekyll: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="jekyll" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.grunt">
       <node-interpreter value="project" />
@@ -114,6 +143,12 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml.jekyll: Compose Deployment" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -135,21 +170,9 @@
       <workItem from="1598804498641" duration="554000" />
       <workItem from="1602029218366" duration="1483000" />
       <workItem from="1602962579245" duration="200000" />
-      <workItem from="1604898289378" duration="366000" />
-    </task>
-    <task id="LOCAL-00010" summary="changed image tagging">
-      <created>1592965406635</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1592965406635</updated>
-    </task>
-    <task id="LOCAL-00011" summary="changed image tagging again">
-      <created>1592965781578</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1592965781578</updated>
+      <workItem from="1604898289378" duration="543000" />
+      <workItem from="1604898839629" duration="1103000" />
+      <workItem from="1605289369399" duration="3858000" />
     </task>
     <task id="LOCAL-00012" summary="correct image tagging in the file">
       <created>1592966185605</created>
@@ -480,7 +503,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604898366100</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Flaming Star and California addition">
+      <created>1604898678115</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1604898678115</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Flaming Star and California addition">
+      <created>1604898795534</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1604898795534</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +554,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changed image tagging" />
     <MESSAGE value="changed image tagging again" />
     <MESSAGE value="correct image tagging in the file" />
     <MESSAGE value="added comet page updated config" />
@@ -542,17 +578,22 @@
     <MESSAGE value="added new image _M33" />
     <MESSAGE value="added new post _M33" />
     <MESSAGE value="alter menus added" />
-    <option name="LAST_COMMIT_MESSAGE" value="alter menus added" />
+    <MESSAGE value="Flaming Star and California addition" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flaming Star and California addition" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="906" y="468" key="#Port_bindings" timestamp="1604973972674">
+      <screen x="0" y="23" width="1920" height="1121" />
+    </state>
+    <state x="906" y="468" key="#Port_bindings/0.23.1920.1121@0.23.1920.1121" timestamp="1604973972674" />
     <state x="479" y="245" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598804697502">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="479" y="245" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1121@0.23.1920.1121" timestamp="1598804697502" />
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1604898677926">
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1604898795384">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1604898677926" />
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1604898795384" />
     <state x="200" y="23" key="CommitChangelistDialog2/0.23.1920.1122@0.23.1920.1122" timestamp="1597828416371" />
     <state x="336" y="124" width="936" height="921" key="DiffContextDialog" timestamp="1596988974144">
       <screen x="0" y="23" width="1920" height="1122" />
@@ -562,10 +603,10 @@
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="742" y="293" key="RollbackChangesDialog/0.23.1920.1121@0.23.1920.1121" timestamp="1604898483023" />
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1604898679828">
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1604898801567">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1604898679828" />
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1604898801567" />
     <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1122@0.23.1920.1122" timestamp="1597828418679" />
   </component>
 </project>

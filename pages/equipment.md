@@ -14,8 +14,8 @@ The images taken on this site were all taken with different combinations of the 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/equipment/ieq30pro/">iOptron iEQ30Pro ›</a>
 
 ## Scopes:
-William Optics FLT110
-William Optics RedCat 
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/equipment/st8300c/">William Optics FLT110› </a><br>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/equipment/st8300c/">William Optics RedCat› </a>
 
 ## Cameras:
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/equipment/st8300c/">Cannon 6D unModified Camera›</a><br>

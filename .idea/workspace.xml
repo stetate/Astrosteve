@@ -21,15 +21,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-05-04-P46Plaedies.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-04-P46Plaedies.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-09-25-M33.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-25-M33.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-17-pleiades.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-17-pleiades.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-11-08-NGC1499.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-09-NGC1499.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/equipment/2020-09-01-FLT.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/equipment/2020-09-01-FLT.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/equipment/2020-09-01-g11.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/equipment/2020-09-01-g11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/equipment/2020-09-01-ieq30pro.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/equipment/2020-09-01-ieq30pro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/equipment/2020-09-01-st8300c.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/equipment/2020-09-01-st8300c.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-11-09-NGC1499.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-09-NGC1499.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,14 +163,7 @@
       <workItem from="1602962579245" duration="200000" />
       <workItem from="1604898289378" duration="543000" />
       <workItem from="1604898839629" duration="1103000" />
-      <workItem from="1605289369399" duration="9540000" />
-    </task>
-    <task id="LOCAL-00023" summary="corrected issues with the infrastructure and linked pages">
-      <created>1595773666058</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1595773666058</updated>
+      <workItem from="1605289369399" duration="9810000" />
     </task>
     <task id="LOCAL-00024" summary="corrected issues with the infrastructure and linked pages">
       <created>1595773937510</created>
@@ -516,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605465845025</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="refactor to page-fullwidth">
+      <created>1605466454660</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1605466454660</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,7 +545,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changes to title of et and addition of the comet neowise" />
     <MESSAGE value="corrected images in Sadr" />
     <MESSAGE value="update platform for FB image trasfer" />
     <MESSAGE value="test" />
@@ -578,7 +569,8 @@
     <MESSAGE value="altered blog main page sidebar" />
     <MESSAGE value="Added FLT" />
     <MESSAGE value="delete unused" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete unused" />
+    <MESSAGE value="refactor to page-fullwidth" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor to page-fullwidth" />
   </component>
   <component name="WindowStateProjectService">
     <state x="906" y="468" key="#Port_bindings" timestamp="1604973972674">
@@ -593,10 +585,10 @@
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="668" y="392" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1121@0.23.1920.1121" timestamp="1605453381299" />
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1605465844729">
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1605466454382">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1605465844729" />
+    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1605466454382" />
     <state x="200" y="23" key="CommitChangelistDialog2/0.23.1920.1122@0.23.1920.1122" timestamp="1597828416371" />
     <state x="336" y="124" width="936" height="921" key="DiffContextDialog" timestamp="1596988974144">
       <screen x="0" y="23" width="1920" height="1122" />
@@ -606,10 +598,10 @@
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="742" y="293" key="RollbackChangesDialog/0.23.1920.1121@0.23.1920.1121" timestamp="1604898483023" />
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1605465847784">
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1605466456771">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1605465847784" />
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1605466456771" />
     <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1122@0.23.1920.1122" timestamp="1597828418679" />
     <state x="527" y="308" width="1393" height="735" key="find.popup" timestamp="1605453618987">
       <screen x="0" y="23" width="1920" height="1121" />

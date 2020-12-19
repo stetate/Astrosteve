@@ -21,7 +21,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2020-11-09-NGC1499.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-09-NGC1499.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-12-13-flamingstar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-12-13-orion.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/astrophotos/2020_12_08_Orion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/astrophotos/2020_12_13_FLAMINGSTAR_FINAL.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +55,9 @@
   </component>
   <component name="JupyterTrust" id="1c61d861-9e08-41c9-a076-c019485ce091" />
   <component name="ProjectId" id="1ddEVQVFnXAnkmidvpRDH6tv8cw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -62,7 +69,7 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/equipment" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -71,11 +78,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs.jest.jest_package" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts/equipment" />
       <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/_posts/equipment" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -163,14 +171,11 @@
       <workItem from="1602962579245" duration="200000" />
       <workItem from="1604898289378" duration="543000" />
       <workItem from="1604898839629" duration="1103000" />
-      <workItem from="1605289369399" duration="9810000" />
-    </task>
-    <task id="LOCAL-00024" summary="corrected issues with the infrastructure and linked pages">
-      <created>1595773937510</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1595773937510</updated>
+      <workItem from="1605289369399" duration="10360000" />
+      <workItem from="1605992970428" duration="96000" />
+      <workItem from="1606078814409" duration="3000" />
+      <workItem from="1606079169674" duration="1000" />
+      <workItem from="1608404850782" duration="1010000" />
     </task>
     <task id="LOCAL-00025" summary="Added comet Page">
       <created>1595795061300</created>
@@ -508,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605466454660</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="refactor to page-fullwidth">
+      <created>1605466721848</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1605466721848</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,41 +583,5 @@
     <MESSAGE value="delete unused" />
     <MESSAGE value="refactor to page-fullwidth" />
     <option name="LAST_COMMIT_MESSAGE" value="refactor to page-fullwidth" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="906" y="468" key="#Port_bindings" timestamp="1604973972674">
-      <screen x="0" y="23" width="1920" height="1121" />
-    </state>
-    <state x="906" y="468" key="#Port_bindings/0.23.1920.1121@0.23.1920.1121" timestamp="1604973972674" />
-    <state x="479" y="245" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598804697502">
-      <screen x="0" y="23" width="1920" height="1121" />
-    </state>
-    <state x="479" y="245" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1121@0.23.1920.1121" timestamp="1598804697502" />
-    <state x="668" y="392" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605453381299">
-      <screen x="0" y="23" width="1920" height="1121" />
-    </state>
-    <state x="668" y="392" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1121@0.23.1920.1121" timestamp="1605453381299" />
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2" timestamp="1605466454382">
-      <screen x="0" y="23" width="1920" height="1121" />
-    </state>
-    <state x="200" y="23" width="1386" height="796" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1605466454382" />
-    <state x="200" y="23" key="CommitChangelistDialog2/0.23.1920.1122@0.23.1920.1122" timestamp="1597828416371" />
-    <state x="336" y="124" width="936" height="921" key="DiffContextDialog" timestamp="1596988974144">
-      <screen x="0" y="23" width="1920" height="1122" />
-    </state>
-    <state x="336" y="124" width="936" height="921" key="DiffContextDialog/0.23.1920.1122@0.23.1920.1122" timestamp="1596988974144" />
-    <state x="742" y="293" key="RollbackChangesDialog" timestamp="1604898483023">
-      <screen x="0" y="23" width="1920" height="1121" />
-    </state>
-    <state x="742" y="293" key="RollbackChangesDialog/0.23.1920.1121@0.23.1920.1121" timestamp="1604898483023" />
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1605466456771">
-      <screen x="0" y="23" width="1920" height="1121" />
-    </state>
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1605466456771" />
-    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.23.1920.1122@0.23.1920.1122" timestamp="1597828418679" />
-    <state x="527" y="308" width="1393" height="735" key="find.popup" timestamp="1605453618987">
-      <screen x="0" y="23" width="1920" height="1121" />
-    </state>
-    <state x="527" y="308" width="1393" height="735" key="find.popup/0.23.1920.1121@0.23.1920.1121" timestamp="1605453618987" />
   </component>
 </project>

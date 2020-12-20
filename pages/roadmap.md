@@ -1,20 +1,17 @@
 ---
 layout: page
-title: "Image Roadmap"
-subheadline: "ToDo-List &amp; Ideas"
-teaser: "Here are some of th eobjects i wish to image in the future."
+title: "Image HitList"
+subheadline: "ToDo-List &amp; Image Ideas"
+teaser: "Images to be taken in the winter period."
 header:
-   image_fullwidth: "header_roadmap_3.jpg"
+   image_fullwidth: astrophotos/LMC_2019_105.jpg
 permalink: "/roadmap/"
 ---
 
 ## Ideas and possible new features
 {: .t30 }
-
-*image 1
-*image 2
-
-
+* multiplane image of M42 and surrounding area
+* Long exposure image or Rosette Nebulae 
 
 ## Done
-once the aboev items has been completed it will apeear here
+Some many targets and the complexity is increasing in all cases. 

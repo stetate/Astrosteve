@@ -6,7 +6,7 @@ tags:
     - photography
     - cameras
 comments: true
-permalink: /photography/camer/
+permalink: /photography/camera/
 ---
 # Cameras for Night Sky Photography
 

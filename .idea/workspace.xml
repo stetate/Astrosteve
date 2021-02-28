@@ -25,9 +25,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/astrophotos/pacman revisited.xosm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/info.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/info.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/roadmap.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/roadmap.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/photography.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/photography.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/photography/camera.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/photography/camera.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,14 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="hiddenUrls">
@@ -71,7 +78,7 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages/photography" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -88,11 +95,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/photography" />
       <recent name="$PROJECT_DIR$/pages" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/_posts/equipment" />
       <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img/astrophotos" />
@@ -182,35 +189,8 @@
       <workItem from="1605992970428" duration="96000" />
       <workItem from="1606078814409" duration="3000" />
       <workItem from="1606079169674" duration="1000" />
-      <workItem from="1608404850782" duration="5186000" />
-    </task>
-    <task id="LOCAL-00027" summary="Added comet Page">
-      <created>1595795460820</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1595795460820</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Added comet Page">
-      <created>1595795862861</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1595795862861</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Added comet Page">
-      <created>1595796237081</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1595796237082</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Added comet Page">
-      <created>1595796548889</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1595796548889</updated>
+      <workItem from="1608404850782" duration="5764000" />
+      <workItem from="1613931190687" duration="5369000" />
     </task>
     <task id="LOCAL-00031" summary="added bubble page">
       <created>1596378054840</created>
@@ -527,7 +507,35 @@
       <option name="project" value="LOCAL" />
       <updated>1608475431658</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="additional information in the info pages">
+      <created>1608485646376</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1608485646377</updated>
+    </task>
+    <task id="LOCAL-00077" summary="photography">
+      <created>1613931599420</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1613931599420</updated>
+    </task>
+    <task id="LOCAL-00078" summary="photography -- added camera pages">
+      <created>1614527534726</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1614527534726</updated>
+    </task>
+    <task id="LOCAL-00079" summary="photography -- added camera pages push menu">
+      <created>1614531330398</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1614531330398</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,10 +572,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update platform for FB image trasfer" />
-    <MESSAGE value="test" />
-    <MESSAGE value="corrected issues with the infrastructure and linked pages" />
-    <MESSAGE value="Added comet Page" />
     <MESSAGE value="added bubble page" />
     <MESSAGE value="commit of new layout -- final shape and design" />
     <MESSAGE value="Changes to index -- top level" />
@@ -589,6 +593,10 @@
     <MESSAGE value="delete unused" />
     <MESSAGE value="refactor to page-fullwidth" />
     <MESSAGE value="refactor pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor pages" />
+    <MESSAGE value="additional information in the info pages" />
+    <MESSAGE value="photography" />
+    <MESSAGE value="photography -- added camera pages" />
+    <MESSAGE value="photography -- added camera pages push menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="photography -- added camera pages push menu" />
   </component>
 </project>

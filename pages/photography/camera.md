@@ -6,9 +6,11 @@ tags:
     - photography
     - cameras
 comments: true
+header:
+   image_fullwidth: astrophotos/11092020_heartandsole.jpg
 permalink: /photography/camera/
 ---
-<img align="left" width="300" height="300" src="https://stetate.github.io/Astrosteve/assets/img/astrophotos/southup.jpg"></img>
+{% include _image.html url="https://stetate.github.io/Astrosteve/assets/img/photo/canonnikon.jpg" description="The most popular brands of camera for night sky photography" %}
 
 These days there is no limit to the type of camera which can be used. 
 Long gone are the days of SLR with slide film using specialist film treated in ways to increase sensitivity of the film 
@@ -24,9 +26,11 @@ will operate the camera shutter allowing exposures which are longer than those a
 also mean you don’t have to touch the camera to start the exposure. 
 
 ##Latest generation Smart Phones
+
 In all honesty I did not believe that I would write such a part. But the current iPhone 12Max(Pro) and latest Google Android phones have cameras which are as good as point and shoot digital cameras. It is questionable if people are buying phones any more of if they are infact purchasing a camera! Recently I picked up a iPhone 12MaxPro and I have been extremely excited about the night mode. This offers upto 30s in exposure and uses the onboard AI and staking methods to generate a composite image which I must say I have been very impressed with. Clearly these cameras are advancing, but the quality of the glass used in the lenses and also the ability to interchange lenses is never going to be part of you phone. All things considered if this is the total of your camera collection the night sky is still within your grasp.
 
 ##Point and Shoot Cameras
+
 These are everywhere – so many people have a point and shoot camera which has a dial either physical or digital for different modes of operation. Lets be honest this never moves from [AUTO] ! it time to make a change and shift this to different modes and experiment. Although these cameras come with fixed lenses and in general small sensors they are still very capable at night time photography. Of course the images should be better than the smart phone but will not be as good as those from DSLR camera. If this is the only camera you have and it has modes other than Auto i.e. manual and a tripod adaptor (M5 screw thread on base) then were good and follow along. 
 
 ##DSLR Cameras
@@ -48,8 +52,6 @@ innovation for night sky photography. Suddenly you were able to focus the object
 the  Ideal cameras for this job are any Nikon D series or Canon EOS camera are great to start offering different 
 attributes from full frame sensors meaning that they have the same image size as a 35mm film camera to the APS-C sized 
 consumer grade DSLR’s and a range of reasonably affordable lenses.
-
-<br/>
 
 ##Alternate cameras
 

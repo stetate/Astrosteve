@@ -24,15 +24,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_includes/_image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml_old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-metadata" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config_dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config_dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/photography.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/photography.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/photography/camera.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/photography/camera.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -74,6 +87,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -125,7 +139,7 @@
     <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
       <deployment type="docker-compose.yml">
         <settings>
-          <option name="sourceFilePath" value="docker-compose.yml" />
+          <option name="sourceFilePath" value="docker-compose.yml_old" />
         </settings>
       </deployment>
       <method v="2" />
@@ -138,7 +152,7 @@
               <option value="jekyll" />
             </list>
           </option>
-          <option name="sourceFilePath" value="docker-compose.yml" />
+          <option name="sourceFilePath" value="docker-compose.yml_old" />
         </settings>
       </deployment>
       <method v="2" />
@@ -191,14 +205,7 @@
       <workItem from="1606078814409" duration="3000" />
       <workItem from="1606079169674" duration="1000" />
       <workItem from="1608404850782" duration="5764000" />
-      <workItem from="1613931190687" duration="8418000" />
-    </task>
-    <task id="LOCAL-00036" summary="commit of new layout -- final shape and design">
-      <created>1596999260197</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1596999260197</updated>
+      <workItem from="1613931190687" duration="12125000" />
     </task>
     <task id="LOCAL-00037" summary="commit of new layout -- final shape and design">
       <created>1597001650169</created>
@@ -536,7 +543,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614534423094</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="modified css to accomodate figure and caption">
+      <created>1614541358794</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1614541358794</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

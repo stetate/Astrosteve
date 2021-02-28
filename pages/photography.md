@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Photographing the Night Sky -- Startup"
 subheadline: "How to start and basics of night sky photography"

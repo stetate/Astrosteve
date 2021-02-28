@@ -1,11 +1,9 @@
-version: '2'
+version: '3'
 services:
-  jekyll:
-    environment:
-      - JEKYLL_ENV=docker
-    command: jekyll serve --watch --config  _config_dev.yml --incremental --force_polling --verbose
-    image: jekyll/jekyll
+  jekyll-serve:
+    image: jekyll/jekyll:4.2.0
     volumes:
-      - .:/srv/jekyll
+      - '.:/srv/jekyll'
     ports:
       - 4000:4000
+    command: 'jekyll serve --trace --incremental --force_polling --verbose'

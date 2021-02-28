@@ -10,7 +10,7 @@ header:
    image_fullwidth: astrophotos/11092020_heartandsole.jpg
 permalink: /photography/camera/
 ---
-{% include _image.html url="https://stetate.github.io/Astrosteve/assets/img/photo/canonnikon.jpg" description="The most popular brands of camera for night sky photography" %}
+{% include _image.html locate="left" sizex="400" sizey="250" url="https://stetate.github.io/Astrosteve/assets/img/photo/canonnikon.jpg" description="The most popular brands of camera for night sky photography" %}
 
 These days there is no limit to the type of camera which can be used. 
 Long gone are the days of SLR with slide film using specialist film treated in ways to increase sensitivity of the film 

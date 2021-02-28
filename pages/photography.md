@@ -7,10 +7,8 @@ header:
    image_fullwidth: astrophotos/11092020_heartandsole.jpg
 permalink: "/photography/"
 ---
-<figure>
-    <img align="left" width="400" height="400" src="https://stetate.github.io/Astrosteve/assets/img/astrophotos/southup.jpg">
-    <figcaption>Summer milky way. Canon 6D, Samyang 12mm Lens</figcaption>
-</figure>
+{% include _image.html locate="left" sizex="400" sizey="250" url="https://stetate.github.io/Astrosteve/assets/img/astrophotos/southup.jpg" description="Image of the Milky Way taken with Canon 6D and 12mm Samyang lens" %}
+
 Daytime photography capitalises upon the functions of digital cameras, rapid autofocus, 
 image stabilization, autoexposure. Photography at night is raw and back to basics. 
 Almost all camera aids are none functional and its back to manual modes and knowledge of what 
@@ -33,4 +31,6 @@ Within the following links we will discuss the different aspects and optimal met
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/photography/camera/">The Camera ›</a>
 
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/photography/setupchecklist/">Travel Checklist ›</a>
 [MY]:../assets/img/astrophotos/southup.jpg

@@ -24,14 +24,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_includes/_image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/photography/setupChecklist.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config_dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config_dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/_image.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/_image.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page-fullwidth.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page-fullwidth.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_05_normalize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_05_normalize.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/photography.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/photography.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/photography/camera.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/photography/camera.md" afterDir="false" />
     </list>
@@ -205,14 +203,7 @@
       <workItem from="1606078814409" duration="3000" />
       <workItem from="1606079169674" duration="1000" />
       <workItem from="1608404850782" duration="5764000" />
-      <workItem from="1613931190687" duration="12125000" />
-    </task>
-    <task id="LOCAL-00037" summary="commit of new layout -- final shape and design">
-      <created>1597001650169</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1597001650169</updated>
+      <workItem from="1613931190687" duration="13791000" />
     </task>
     <task id="LOCAL-00038" summary="Changes to index -- top level">
       <created>1597592244726</created>
@@ -550,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614541358794</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="modified css to accomodate figure and caption">
+      <created>1614545100256</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1614545100256</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

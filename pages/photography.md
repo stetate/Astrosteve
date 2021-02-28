@@ -8,7 +8,7 @@ header:
 permalink: "/photography/"
 ---
 <figure>
-    <img align="left" width="400" height="400" src="https://stetate.github.io/Astrosteve/assets/img/astrophotos/southup.jpg"></img>
+    <img align="left" width="400" height="400" src="https://stetate.github.io/Astrosteve/assets/img/astrophotos/southup.jpg">
     <figcaption>Summer milky way. Canon 6D, Samyang 12mm Lens</figcaption>
 </figure>
 Daytime photography capitalises upon the functions of digital cameras, rapid autofocus, 

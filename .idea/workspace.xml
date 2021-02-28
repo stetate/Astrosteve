@@ -24,9 +24,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/photo/canonnikon.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/photography/camera.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/photography/camera.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-metadata" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/photography.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/photography.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,28 +191,7 @@
       <workItem from="1606078814409" duration="3000" />
       <workItem from="1606079169674" duration="1000" />
       <workItem from="1608404850782" duration="5764000" />
-      <workItem from="1613931190687" duration="7169000" />
-    </task>
-    <task id="LOCAL-00033" summary="commit of new layout -- final shape and design">
-      <created>1596988628287</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1596988628287</updated>
-    </task>
-    <task id="LOCAL-00034" summary="commit of new layout -- final shape and design">
-      <created>1596988865994</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1596988865994</updated>
-    </task>
-    <task id="LOCAL-00035" summary="commit of new layout -- final shape and design">
-      <created>1596989398164</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1596989398164</updated>
+      <workItem from="1613931190687" duration="8418000" />
     </task>
     <task id="LOCAL-00036" summary="commit of new layout -- final shape and design">
       <created>1596999260197</created>
@@ -535,7 +515,28 @@
       <option name="project" value="LOCAL" />
       <updated>1614532739799</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="photography -- added camera pages push menu">
+      <created>1614533570378</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1614533570378</updated>
+    </task>
+    <task id="LOCAL-00083" summary="photography -- added camera pages push menu">
+      <created>1614533894714</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1614533894714</updated>
+    </task>
+    <task id="LOCAL-00084" summary="modified css to accomodate figure and caption">
+      <created>1614534423094</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1614534423094</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +573,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added bubble page" />
     <MESSAGE value="commit of new layout -- final shape and design" />
     <MESSAGE value="Changes to index -- top level" />
     <MESSAGE value="updates to many files and topic areas" />
@@ -597,6 +597,7 @@
     <MESSAGE value="photography" />
     <MESSAGE value="photography -- added camera pages" />
     <MESSAGE value="photography -- added camera pages push menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="photography -- added camera pages push menu" />
+    <MESSAGE value="modified css to accomodate figure and caption" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified css to accomodate figure and caption" />
   </component>
 </project>

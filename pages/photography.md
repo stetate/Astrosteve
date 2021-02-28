@@ -7,8 +7,8 @@ header:
    image_fullwidth: astrophotos/11092020_heartandsole.jpg
 permalink: "/photography/"
 ---
-##Introduction
 
+![image][MY] 
 Daytime photography capitalises upon the functions of digital cameras, rapid autofocus, 
 image stabilization, autoexposure. Photography at night is raw and back to basics. 
 Almost all camera aids are none functional and its back to manual modes and knowledge of what 
@@ -30,3 +30,5 @@ Within the following links we will discuss the different aspects and optimal met
       
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/photography/camera/">The Camera ›</a>
+
+[MY]:../assets/img/astrophotos/southup.jpg

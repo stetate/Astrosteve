@@ -8,7 +8,7 @@ tags:
 comments: true
 permalink: /photography/camera/
 ---
-# Cameras for Night Sky Photography
+<img align="left" width="300" height="300" src="https://stetate.github.io/Astrosteve/assets/img/astrophotos/southup.jpg"></img>
 
 These days there is no limit to the type of camera which can be used. 
 Long gone are the days of SLR with slide film using specialist film treated in ways to increase sensitivity of the film 
@@ -68,3 +68,4 @@ Sony Alpha-7a these have enhanced red light detection and are more suitable to a
 In our case it is highly likely that we will be using a consumer DSLR or point and shoot camera which is a great 
 introduction to this form of photography
 
+[CN]:../../assets/img/photo/canonnikon.jpg

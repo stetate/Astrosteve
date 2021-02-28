@@ -15,25 +15,44 @@ Long gone are the days of SLR with slide film using specialist film treated in w
 and thankfully is do not miss those days, sliced slides as “they are blank with just Nosie of them” or sorry it 
 looks like there is something wrong with your camera”. 
 <br/>
+
 The rise of modern DSLR, point and shoot or even smart phones have revolutionised what people are able to photograph. 
 Most full functional cameras come with a full manual mode which is likely the one mode that is in all honesty never used. 
 Most also come with a Bulb mode this is the preferred mode it offers the full camera functionality as well as offering 
 long exposure. When using bulb mode an item of extra hardware is required this is called an intervalvometer and it 
 will operate the camera shutter allowing exposures which are longer than those available within the camera software and 
 also mean you don’t have to touch the camera to start the exposure. 
-<br/>
+
 ##Latest generation Smart Phones
 In all honesty I did not believe that I would write such a part. But the current iPhone 12Max(Pro) and latest Google Android phones have cameras which are as good as point and shoot digital cameras. It is questionable if people are buying phones any more of if they are infact purchasing a camera! Recently I picked up a iPhone 12MaxPro and I have been extremely excited about the night mode. This offers upto 30s in exposure and uses the onboard AI and staking methods to generate a composite image which I must say I have been very impressed with. Clearly these cameras are advancing, but the quality of the glass used in the lenses and also the ability to interchange lenses is never going to be part of you phone. All things considered if this is the total of your camera collection the night sky is still within your grasp.
-<br/>
+
 ##Point and Shoot Cameras
 These are everywhere – so many people have a point and shoot camera which has a dial either physical or digital for different modes of operation. Lets be honest this never moves from [AUTO] ! it time to make a change and shift this to different modes and experiment. Although these cameras come with fixed lenses and in general small sensors they are still very capable at night time photography. Of course the images should be better than the smart phone but will not be as good as those from DSLR camera. If this is the only camera you have and it has modes other than Auto i.e. manual and a tripod adaptor (M5 screw thread on base) then were good and follow along. 
+
 ##DSLR Cameras
 
 DSLR cameras have the advantage over other forms as they in general allow for interchangeable lens configurations from 
-short focal length to large telephoto lens. Ideal cameras for this job are any Nikon D series or Canon EOS camera are 
-great to start offering different attributes from full frame sensors meaning that they have the same image size as a 
-35mm film camera to the APS-C sized consumer grade DSLR’s and a range of reasonably affordable lenses.
+short focal length to large telephoto lens. DSLR cameras also offer the most features of being able to manipulate the 
+method the camera uses to exposure. These cameras in general have full control over the aperture, speed (ISO value), 
+exposure time, and also in many cases the white balance from the sensor and so on. Many of these settings will be 
+discussed in other pages as we progress through the different modes and setup a camera to take a night sky photograph. 
 <br/>
+
+Besides the internal functions of the camera there are some external functions which are or have become essential for 
+Night Sky Photography. These include primarily LiveView. In the time before digital cameras SLR cameras which used 35mm 
+film were a popular choice. Any manipulation of the lens or focus was generally performed through the view finder of 
+the cameras which is really not easy. In first generation digital cameras the concept of liveview required you to tether 
+your computer to the camera which also have limitations. But when liveview through a screen on the rear of the camera 
+was introduced this became a game changing 
+innovation for night sky photography. Suddenly you were able to focus the object to a point of light with a zoomed image.
+the  Ideal cameras for this job are any Nikon D series or Canon EOS camera are great to start offering different 
+attributes from full frame sensors meaning that they have the same image size as a 35mm film camera to the APS-C sized 
+consumer grade DSLR’s and a range of reasonably affordable lenses.
+
+<br/>
+
+##Alternate cameras
+
 There are other types of camera which start to move into the specialist range. Many deep sky photographers use dedicated 
 cameras, these days CMOS chip are very prevalent such as those found in consumer DSLR cameras or CCD chips. These cameras 
 do not have any of the controls that a DSLR and are to be coupled direct to lenses or telescopes and are in general 

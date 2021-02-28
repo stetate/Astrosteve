@@ -17,4 +17,4 @@ A photographic system can essentially be broken into 3 different parts:
 Within the following links we will discuss the different aspects and optimal method to setup for night time photography. Although different camera manufacturers have different terminology for different items of their cameras the language used through these pages will relate to Canon cameras but can be translated to other manufacturers.
       
 ##
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/phtography/camera/">Differneces in the types of camera and optimal cameras for night sky phtography ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/photography/camera/">Differneces in the types of camera and optimal cameras for night sky phtography ›</a>

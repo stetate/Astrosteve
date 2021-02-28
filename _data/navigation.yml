@@ -14,7 +14,12 @@
     url: "/equipment/ieq30pro/"
   - title: "sBIG fred ST8300C"
     url: "/equipment/st8300c"
-
+- title: "Photography"
+  url: "/photography/"
+  side: left
+  dropdown:
+    - title: "Cameras"
+      url: "/photography/camera/"
 
 - title: Blog Posts
   url: "/blog/"

@@ -24,14 +24,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/photography/setupChecklist.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2017-12-13-Aurora.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/photography/mounting.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/_image.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/_image.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page-fullwidth.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page-fullwidth.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_05_normalize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_05_normalize.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/photography.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/photography.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/photography/camera.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/photography/camera.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-12-13-orion.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-13-Orion.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,20 +106,20 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pages/photography" />
-      <recent name="$PROJECT_DIR$/pages" />
       <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/pages" />
       <recent name="$PROJECT_DIR$/_posts/equipment" />
       <recent name="$PROJECT_DIR$/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/assets/img/photo" />
       <recent name="$PROJECT_DIR$/assets/img/astrophotos" />
-      <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/img/basejunk" />
     </key>
   </component>
-  <component name="RunManager" selected="Docker.docker-compose.yml: Compose Deployment">
+  <component name="RunManager" selected="Docker.docker-compose.yml: Compose Deployment (1)">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -133,6 +130,14 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment (1)" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
     </configuration>
     <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
       <deployment type="docker-compose.yml">
@@ -171,6 +176,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment (1)" />
         <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
         <item itemvalue="Docker.docker-compose.yml.jekyll: Compose Deployment" />
       </list>
@@ -203,14 +209,7 @@
       <workItem from="1606078814409" duration="3000" />
       <workItem from="1606079169674" duration="1000" />
       <workItem from="1608404850782" duration="5764000" />
-      <workItem from="1613931190687" duration="13791000" />
-    </task>
-    <task id="LOCAL-00038" summary="Changes to index -- top level">
-      <created>1597592244726</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1597592244726</updated>
+      <workItem from="1613931190687" duration="21207000" />
     </task>
     <task id="LOCAL-00039" summary="updates to many files and topic areas">
       <created>1597595798469</created>
@@ -548,7 +547,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614545100256</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="alters main css to add padding to image">
+      <created>1614551974101</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1614551974101</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,7 +591,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit of new layout -- final shape and design" />
     <MESSAGE value="Changes to index -- top level" />
     <MESSAGE value="updates to many files and topic areas" />
     <MESSAGE value="NGC6960 addition" />
@@ -610,6 +615,7 @@
     <MESSAGE value="photography -- added camera pages" />
     <MESSAGE value="photography -- added camera pages push menu" />
     <MESSAGE value="modified css to accomodate figure and caption" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified css to accomodate figure and caption" />
+    <MESSAGE value="alters main css to add padding to image" />
+    <option name="LAST_COMMIT_MESSAGE" value="alters main css to add padding to image" />
   </component>
 </project>

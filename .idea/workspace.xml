@@ -24,7 +24,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-06-05-NGC7000.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +82,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pages/photography" />
@@ -209,14 +213,8 @@
       <workItem from="1608404850782" duration="5764000" />
       <workItem from="1613931190687" duration="21830000" />
       <workItem from="1622313995918" duration="1120000" />
-      <workItem from="1622520690956" duration="3058000" />
-    </task>
-    <task id="LOCAL-00041" summary="NGC6960 addition">
-      <created>1597596235879</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1597596235879</updated>
+      <workItem from="1622520690956" duration="3104000" />
+      <workItem from="1623000932730" duration="37000" />
     </task>
     <task id="LOCAL-00042" summary="updated GEM">
       <created>1597596614292</created>
@@ -554,11 +552,28 @@
       <option name="project" value="LOCAL" />
       <updated>1622999463302</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="added NGC7000 Image blog Post">
+      <created>1623000884584</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1623000884585</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -591,7 +606,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="NGC6960 addition" />
     <MESSAGE value="updated GEM" />
     <MESSAGE value="updated paegs" />
     <MESSAGE value="update navigation" />
@@ -616,6 +630,7 @@
     <MESSAGE value="alters main css to add padding to image" />
     <MESSAGE value="addede aurora gallery ?? as started next photo page" />
     <MESSAGE value="altered order of image directories" />
-    <option name="LAST_COMMIT_MESSAGE" value="altered order of image directories" />
+    <MESSAGE value="added NGC7000 Image blog Post" />
+    <option name="LAST_COMMIT_MESSAGE" value="added NGC7000 Image blog Post" />
   </component>
 </project>

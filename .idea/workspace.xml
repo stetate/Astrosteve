@@ -24,11 +24,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f018ba34-898b-4a69-b4bb-405eec726861" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2017-12-13-Aurora.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/photography/mounting.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/astrophotos/NGC7000/20210604_NGC7000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/astrophotos/sadrImages/20200601_Sadir.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-12-13-orion.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-13-Orion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-07-05-Sadr_FMF.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-07-05-Sadr_FMF.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/astrophotos/NGC7000_20x5MinREDCAT2LENH.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/astrophotos/NGC7000/NGC7000_20x5MinREDCAT2LENH.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/astrophotos/NGC7000_Sadr.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/astrophotos/NGC7000/NGC7000_Sadr.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/astrophotos/NorthAmerican_RedCat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/astrophotos/NGC7000/NorthAmerican_RedCat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/astrophotos/SADR.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/astrophotos/sadrImages/SADR.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/astrophotos/Sadr_RedCat6D.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/astrophotos/sadrImages/Sadr_RedCat6D.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/astrophotos/Sadr_iso4000_1min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/astrophotos/sadrImages/Sadr_iso4000_1min.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +106,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs.jest.jest_package" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="ics" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -112,11 +119,11 @@
       <recent name="$PROJECT_DIR$/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/astrophotos/NGC7000" />
+      <recent name="$PROJECT_DIR$/assets/img/astrophotos/sadrImages" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/assets/img/photo" />
       <recent name="$PROJECT_DIR$/assets/img/astrophotos" />
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/assets/img/basejunk" />
     </key>
   </component>
   <component name="RunManager" selected="Docker.docker-compose.yml: Compose Deployment (1)">
@@ -209,14 +216,9 @@
       <workItem from="1606078814409" duration="3000" />
       <workItem from="1606079169674" duration="1000" />
       <workItem from="1608404850782" duration="5764000" />
-      <workItem from="1613931190687" duration="21207000" />
-    </task>
-    <task id="LOCAL-00039" summary="updates to many files and topic areas">
-      <created>1597595798469</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1597595798469</updated>
+      <workItem from="1613931190687" duration="21830000" />
+      <workItem from="1622313995918" duration="1120000" />
+      <workItem from="1622520690956" duration="1639000" />
     </task>
     <task id="LOCAL-00040" summary="updates to many files and topic areas">
       <created>1597595834444</created>
@@ -554,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614551974101</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="addede aurora gallery ?? as started next photo page">
+      <created>1615048452232</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1615048452234</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -591,7 +600,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Changes to index -- top level" />
     <MESSAGE value="updates to many files and topic areas" />
     <MESSAGE value="NGC6960 addition" />
     <MESSAGE value="updated GEM" />
@@ -616,6 +624,7 @@
     <MESSAGE value="photography -- added camera pages push menu" />
     <MESSAGE value="modified css to accomodate figure and caption" />
     <MESSAGE value="alters main css to add padding to image" />
-    <option name="LAST_COMMIT_MESSAGE" value="alters main css to add padding to image" />
+    <MESSAGE value="addede aurora gallery ?? as started next photo page" />
+    <option name="LAST_COMMIT_MESSAGE" value="addede aurora gallery ?? as started next photo page" />
   </component>
 </project>
